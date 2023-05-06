@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Tran Thi Hien Mai*
-* Student ID: *M22ICT004*
+* Student Name: Tran Thi Hien Mai
+* Student ID: M22.ICT.004
 
