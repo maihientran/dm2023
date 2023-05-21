@@ -24,7 +24,7 @@ This project demonstrates image segmentation using the mean shift clustering alg
 
 1. Clone the repository or download the project files.
 2. Install the required libraries by running the following command:
-    pip install -r requirements.txt
+    ```pip install -r requirements.txt```
 
 
 ## Usage
@@ -41,7 +41,7 @@ This project demonstrates image segmentation using the mean shift clustering alg
 
 The project consists of the following files:
 
-- `mean_shift_segmentation.py`: The main Python script that performs image segmentation using the mean shift clustering algorithm.
+- `project.py`: The main Python script that performs image segmentation using the mean shift clustering algorithm.
 - `README.md`: This file, providing an overview of the project and instructions for usage.
 - `requirements.txt`: A text file listing the required Python libraries and their versions.
 - `painting_5.jpg`: An example input image used for demonstration purposes.
@@ -52,4 +52,4 @@ To perform image segmentation, the `segment_image` method is called with the inp
 
 The `plot_segmentation` method is used to visualize the original and segmented images side by side using Matplotlib.
 
-You can adjust the `bandwidth` and `tau` parameters in the `mean_shift_segmentation.py` file to control the level of segmentation and fine-tune the results according to your requirements.
+You can adjust the `bandwidth` and `tau` parameters in the `project.py` file to control the level of segmentation and fine-tune the results according to your requirements.
